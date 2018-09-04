@@ -2,6 +2,7 @@
 title: Creating Functions
 teaching: 30
 exercises: 0
+start: true
 questions:
 - "How can I define new functions?"
 - "What's the difference between defining and calling a function?"
